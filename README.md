@@ -1,5 +1,5 @@
-## CI with testing by using GitHub Actions
-run testing as ci workflow with github actions
+## Peform testing as CI by using GitHub Actions
+CI with GitHub actions: run testing of new commits as part of CI workflow with GitHub actions 
 
 ## Run pytest
 * `pytest` must be installed as per requirements file
