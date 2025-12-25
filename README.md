@@ -2,8 +2,7 @@
 run testing as ci workflow with github actions
 
 ## Run pytest
-* `pytest` must be installed 
-* conda install pytest
+* `pytest` must be installed as per requirements file
 
 ## Create environment ci
 
